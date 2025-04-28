@@ -1,6 +1,6 @@
 # 🌳 Estructura de Datos y Algoritmos – Semana 7
 
-> 📚 **Tema:** Árboles
+> 📚 **Tema:** Árboles Binarios  
 > 📅 **Fecha:** 28/04/2025  
 > 🏫 **Institución:** Tecsup  
 > 👨‍🏫 **Profesor:** Garamendi Sarmiento, Elliot Leo
