@@ -9,7 +9,8 @@
 
 ## 🎬 ¿Qué aprendimos esta semana?
 
-![GIF explicativo](https://giphy.com/gifs/tree-amazon-growing-Vi5TUmZz8LZb95j2xb)
+![GIF explicativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGh0eG5tY2RtY2E1enFhY2s5MDRwaTIyd3Vyem1mMzhjNHI0b3psdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1kkxWqT5nvLXupUTwK/giphy.gif)
+
 
 Esta semana exploramos a fondo la estructura de **árboles binarios**, fundamentales para organizar información de manera jerárquica y eficiente. Abordamos temas esenciales como:
 
